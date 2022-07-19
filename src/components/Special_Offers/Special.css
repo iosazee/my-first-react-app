@@ -1,0 +1,35 @@
+.special-container {
+    margin: 20px 10px 10px 20px;
+}
+
+.special-offers-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.special-offers-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #F6F2EF;
+    padding: 10PX;
+    width: 30%;
+}
+
+.coffee-bean {
+    width: 240px;
+    height: 320px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.special-button {
+    font-size: 30px;
+    color: #FFFFFF;
+    background: #FF5678;
+    width: 220PX;
+    border: 2px solid #FF5678;
+    margin-bottom: 10px;
+}
+

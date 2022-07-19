@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-header {
+    font-size: 40px;
+    color: #FF5678;
+    margin-left: 20px;
+}
+
+.navbar-link {
+  font-size: 18px;
+  color: black;
+  padding: 16px;
+}
+
+.navbar-button {
+  color: white;
+  background: black;
+  border-radius: 10px;
+  margin: 16px;
+  height: min-height;
+}

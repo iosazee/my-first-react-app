@@ -1,0 +1,40 @@
+.banner-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 10px 10px 20px;
+}
+
+.banner-header2 {
+  font-weight: 700;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.input-image-container {
+    display: flex;
+}
+
+.search-bar {
+    width: 300px;
+    height: 26px;
+    font-size: 10px;
+    border-radius: 6px;
+    background: #F6F2EF;
+    border: 1px solid #F6F2EF;
+}
+
+.arrow {
+  background: #FF5678;
+  width: 26px;
+  height: 26px;
+  border-radius: 8px;
+  margin: 2px;
+}
+
+.illustration {
+  width: 800px;
+  height: 500px;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,16 @@
+.about {
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  margin: 20px 10px 10px 20px;
+  padding-bottom: 8px;
+}
+
+.about-header {
+  font-weight: bold;
+  padding-top: 8px;
+  margin-bottom: 16px;
+}
+
+.about-link {
+    color: #FF5678;
+  }
